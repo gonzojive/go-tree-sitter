@@ -138,13 +138,13 @@
   },
   {
     "language": "kotlin",
-    "url": "https://github.com/fwcd/tree-sitter-kotlin",
+    "url": "https://github.com/reddaly/tree-sitter-kotlin",
     "files": [
       "parser.c",
       "scanner.c"
     ],
-    "reference": "main",
-    "revision": "cce9073807c6c1da81ce658d683fdac2878e5b57"
+    "reference": "reddaly/value-classes",
+    "revision": "80834a15154448cfa795bfa6b8be3559af1753fc"
   },
   {
     "language": "lua",
